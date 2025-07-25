@@ -52,15 +52,15 @@ a {
 }
 .title-first {
   font-size: 56px;
-  line-height: 1.08;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
 }
-.title-buttom {
-  background: #4d5ae5;
+.title-button {
+  background-color: #4d5ae5;
 }
-.button-text {
+.title-button {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
